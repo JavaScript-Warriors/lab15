@@ -4,7 +4,7 @@ holding a bachelor degree in Computer Science from the University of Jordan, 23 
 
 # Rihan Foudeh
 
-I’ve graduated from The World Islamic Sciences and Education University, faculty of Information Technology, Software Engineering department, year 2021 with grade Excellent.
+I’ve graduated from The World Islamic Sciences and Education University, faculty of Information Technology, Software Engineering department, year 2021 with grade Excellent, I'm 22 years old.
 
 [Github Account](https://github.com/RihanFoudeh)  
 
@@ -17,4 +17,8 @@ I'm 34 years old, I have a bachelor degree of mechatronics engineering and a mas
 # Omar Taha
 I am 26 years old, I graduated with a major in civil engineering in 2017, I have a passion for learning programming languages ​​and I am on my way now to reach what I want
 [github account](https://github.com/omar11taha)
+
+# Qutadah Almomani
+I'm Qatadah Almomani ,I'm 25 years old. I'm mechanical engineer specialising in HVAC . I got graduate from al balqa applied university in 2017 . I decided to learn programming because i love programming.
+[github account](https://github.com/Qutadah95)
 
