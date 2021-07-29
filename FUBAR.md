@@ -14,3 +14,7 @@ I'm 34 years old, I have a bachelor degree of mechatronics engineering and a mas
 
 [Github Account](https://github.com/Amer-1987)  
 
+# Omar Taha
+I am 26 years old, I graduated with a major in civil engineering in 2017, I have a passion for learning programming languages ​​and I am on my way now to reach what I want
+[github account](https://github.com/omar11taha)
+
