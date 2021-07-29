@@ -22,3 +22,7 @@ I am 26 years old, I graduated with a major in civil engineering in 2017, I have
 I'm Qatadah Almomani ,I'm 25 years old. I'm mechanical engineer specialising in HVAC . I got graduate from al balqa applied university in 2017 . I decided to learn programming because i love programming.
 [github account](https://github.com/Qutadah95)
 
+# Asma Battikhi
+my name is Asma, Im 29 years old, Im an architect worked for 3 years.I'm studying green architecture, I create 3d assets for game development. I use unreal engine with the help of 3dsmax for creating games.
+[Github account](https://github.com/asmabatttikhi)
+
